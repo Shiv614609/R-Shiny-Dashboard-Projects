@@ -1,0 +1,13 @@
+name: project1
+title: project1
+username:
+account: tip-performance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 223042
+bundleId: 1128346
+url: https://tip-performance.shinyapps.io/project1/
+when: 1513010213.13608
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data/All_Spec_CallTracker-v1.0.xlsx - Call_Tracker.csv
