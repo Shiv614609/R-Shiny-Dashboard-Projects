@@ -1,0 +1,12 @@
+name: lead_generation_dashboard
+title: Lead_Generation_Dashboard
+username:
+account: tip-performance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 280677
+bundleId: 1221498
+url: https://adithyaajith.shinyapps.io/lead_generation_dashboard/
+when: 1518551218.34945
+asMultiple: FALSE
+asStatic: FALSE

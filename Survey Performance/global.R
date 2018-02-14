@@ -5,26 +5,25 @@ library(dplyr)
 library(ggplot2)
 library(plotly)
 
-#calls<-read.csv("./Data/All_Spec_CallTracker-v1.0.xlsx - Call_Tracker.csv")
-weekly<-read.csv("./Data/All_Spec_CallTracker-v1.0.xlsx - WeeklyProgress.csv")
-survey<-read.csv("./Data/All_Spec_Questionnaire.csv" , stringsAsFactors = FALSE); survey = survey[3:nrow(survey),]
+
+weekly<-read.csv("./Data/WeeklyProgress.csv")
+survey<-read.csv("./Data/Questionnaire.csv" , stringsAsFactors = FALSE); survey = survey[3:nrow(survey),]
 
 #product_search_1: comments_product_sea : How easy is it for you to search and find the product
 #checkout_process_1 : comments_checkout_pr: How easy is it for you to navigate the checkout process?
 #shipping_options_1 : comments_shipping_op : How easy is it to choose your shipping options?
-#NES_overall_1 : comments_overall : Overall how easy is it to find exactly what you need on the All-Spec website?
-#overall_experience_1 : comments_overall_exp :What is your overall customer experience with All-Spec?
+#NES_overall_1 : comments_overall : Overall how easy is it to find exactly what you need on the company website?
+#overall_experience_1 : comments_overall_exp :What is your overall customer experience with company?
 #ship_dates_1 :comments_ship_dates : How satisfied are you with the expected ship dates?
 #freight_cost_1 : comments_frieght_cos : How satisfied are you with the freight cost?
 #product_price_1 : comments_prics : How satisfied are you with the prices of the products?
 #product_availablity_1 : comments_product_ava : When you go to place an order is the product available and in the quantities you need?
 #If you ever needed help using the Live Chat function or customer service, how helpful was it?
 # overall_NPS_NPS_GROUP : 
-# overall_NPS : comments_overall_NPS : On a scale from 0-10, how likely are you to recommend All-Spec to a friend or colleague?
+# overall_NPS : comments_overall_NPS : On a scale from 0-10, how likely are you to recommend company to a friend or colleague?
 
 survey = survey %>% 
-  select(name, email_ID , position, overall_NPS_NPS_GROUP,product_search_1 , checkout_process_1 , shipping_options_1, NES_overall_1,overall_experience_1, ship_dates_1 , freight_cost_1,product_price_1,product_availablity_1,overall_NPS,
-         comments_product_sea , comments_checkout_pr , comments_shipping_op)
+  select(overall_NPS_NPS_GROUP,product_search_1 , checkout_process_1 , shipping_options_1, NES_overall_1,overall_experience_1, ship_dates_1 , freight_cost_1,product_price_1,product_availablity_1,overall_NPS)
 
 initiated = sum(weekly[nrow(weekly), c("Completed", "Does.Not.remember","Follow.up" , "No.response" , "Partially.Completed" , "Wrong.Person")])
 perc =initiated*100/weekly$Grand.Total[nrow(weekly)]
@@ -62,13 +61,13 @@ diamonds = survey %>%
 diamonds$Questions[ diamonds$Questions == "product_search_1"] = "How easy is it for you to search and find the product?"
 diamonds$Questions[ diamonds$Questions == "checkout_process_1"] = "How easy is it for you to navigate the checkout process?"
 diamonds$Questions[ diamonds$Questions == "shipping_options_1"] = "How easy is it to choose your shipping options?"
-diamonds$Questions[ diamonds$Questions == "NES_overall_1"] = "Overall how easy is it to find exactly what you need on the All-Spec website?"
-diamonds$Questions[ diamonds$Questions == "overall_experience_1"] ="What is your overall customer experience with All-Spec?"
+diamonds$Questions[ diamonds$Questions == "NES_overall_1"] = "Overall how easy is it to find exactly what you need on the company website?"
+diamonds$Questions[ diamonds$Questions == "overall_experience_1"] ="What is your overall customer experience with company?"
 diamonds$Questions[ diamonds$Questions == "ship_dates_1"] = "How satisfied are you with the expected ship dates?"
 diamonds$Questions[ diamonds$Questions == "freight_cost_1"] = "How satisfied are you with the freight cost?"
 diamonds$Questions[ diamonds$Questions == "product_price_1"] = "How satisfied are you with the prices of the products?"
 diamonds$Questions[ diamonds$Questions == "product_availablity_1"] = "When you go to place an order is the product available and in the quantities you need?"
-diamonds$Questions[ diamonds$Questions == "overall_NPS"] = "How likely are you to recommend All-Spec to a friend or colleague?"
+diamonds$Questions[ diamonds$Questions == "overall_NPS"] = "How likely are you to recommend company to a friend or colleague?"
 
 
 NPS_groups = survey %>% 

@@ -5,8 +5,7 @@ library(dplyr)
 library(ggplot2)
 library(plotly)
 
-#calls<-read.csv("./Data/AllContacts.csv")
-calls<-read.csv("./Data/OfficialSMBCallList.csv" , stringsAsFactors = F)
+calls<-read.csv("./Data/CallList.csv" , stringsAsFactors = F)
 
 calls$Call.Status[calls$Call.Status==""] ="Open"
 new= nrow(calls %>% 

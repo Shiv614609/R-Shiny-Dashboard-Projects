@@ -1,0 +1,1439 @@
+Sl_No,Company Name,Contact Type,Call Status,Follow - Up,Number_of Call_Attempts,Lead - Status,Phone Type,Point of Contact Status,Valid_Email_ID
+3,A1,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+6,A1,Existing,Wrong POC,Phone,5,,Direct Line,Not Important,No
+11,A1,Existing,Wrong POC,,3,,Reception,Not Sure,No
+17,A1,Existing,No response,,2,,Invalid,Not Sure,No
+9,A2,Existing,No response,,1,,Direct Line,Important,Not Sure
+1366,A3,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A3,New,Wrong POC,,2,,Reception,Not Important,Not Sure
+,A3,,No response,,1,,Reception,Not Important,
+16,A4,Existing,Not Interested,,1,,Direct Line,Not Important,Not Sure
+,A4,New,Not Interested,,1,,Direct Line,Important,Not Sure
+1328,A5,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+8,A6,Existing,No response,,3,,Direct Line,Not Important,Not Sure
+4,A7,Existing,Not Interested,,1,,Not Sure,Important,Not Sure
+5,A8,Existing,No response,,1,,Not Sure,Important,Not Sure
+15,A8,Existing,Wrong POC,,2,,Reception,Not Important,Not Sure
+,A8,New,No response,,5,,Reception,Not Sure,Not Sure
+7,A9,Existing,No response,,3,,Reception,Not Sure,Not Sure
+10,A9,Existing,No response,,3,,Reception,Not Sure,Not Sure
+12,A9,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+18,A9,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+19,A10,Existing,Not Interested,,4,,Reception,Not Sure,Not Sure
+1293,A11,Existing,No response,,2,,Invalid,Not Sure,No
+20,A12,Existing,Wrong POC,,1,,Direct Line,Not Important,Not Sure
+21,A12,Existing,No response,,3,,Reception,Not Sure,Not Sure
+22,A13,Existing,No response,,1,,Direct Line,Important,Not Sure
+23,A14,Existing,Wrong POC,,2,,Reception,Not Important,Not Sure
+,A14,New,Lead,,5,Cold,Direct Line,Important,Yes
+24,A14,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+1,A15,Existing,No response,VM/Email,4,,Direct Line,Not Important,Not Sure
+2,A15,Existing,Not Interested,,2,,Direct Line,Not Important,Not Sure
+25,A15,Existing,Not Interested,,2,,Reception,Important,Not Sure
+28,A16,Existing,No response,,2,,Invalid,Not Sure,Not Sure
+1294,A17,Existing,No response,,,,Reception,Not Important,Not Sure
+26,A18,Existing,No response,,1,,Reception,Important,Not Sure
+27,A18,Existing,No response,,,,Reception,,Not Sure
+31,A18,Existing,No response,,1,,Direct Line,Important,Not Sure
+32,A18,Existing,No response,,1,,Direct Line,Important,Not Sure
+29,A19,Existing,Not Interested,,4,,Reception,Important,Not Sure
+30,A19,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+33,A20,Existing,Wrong POC,,1,,Not Sure,Not Important,Not Sure
+34,A21,Existing,No response,,1,,Direct Line,Important,Not Sure
+35,A21,Existing,Not Interested,,1,,Direct Line,Important,Not Sure
+36,A21,Existing,Wrong POC,,1,,Invalid,Not Important,No
+,A21,New,Not Interested,,1,,Direct Line,Important,Not Sure
+37,A22,Existing,No response,,3,,Reception,Not Sure,Not Sure
+1297,A23,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A23,New,No response,,3,,Reception,Not Sure,Not Sure
+1204,A24,Existing,Not Interested,,1,,Reception,Important,Not Sure
+38,A25,Existing,Wrong POC,VM/Email,2,,Reception,Not Important,Not Sure
+39,A25,Existing,Wrong POC,VM/Email,1,,Reception,Not Important,Not Sure
+40,A25,Existing,Not Interested,,2,,Invalid,Not Sure,Yes
+41,A26,New,Not Interested,,4,,Reception,Not Sure,Not Sure
+42,A26,Existing,Not Interested,,,,Repeat Number,Not Sure,Yes
+43,A27,Existing,Lead,,3,Hot,Direct Line,Important,Not Sure
+44,A27,Existing,Wrong POC,,,,Direct Line,Not Important,Not Sure
+45,A27,Existing,Wrong POC,,,,Direct Line,Not Important,Not Sure
+46,A28,Existing,No response,VM/Email,3,,Direct Line,Not Sure,Not Sure
+1311,A29,Existing,Not Interested,VM/Email,1,,Direct Line,Not Sure,Not Sure
+1289,A30,Existing,Not Interested,,2,,Direct Line,Important,Not Sure
+47,A31,Existing,Not Interested,,2,,Reception,Not Important,Not Sure
+49,A31,Existing,Not Interested,,1,,Reception,Not Important,Not Sure
+48,A32,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+50,A33,Existing,No response,,3,,Reception,Not Sure,Not Sure
+57,A34,Existing,No response,,4,,Reception,Not Important,Not Sure
+,A34,New,Lead,,3,Warm,Reception,Important,Yes
+58,A35,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+62,A36,Existing,No response,,3,,Reception,Not Sure,Not Sure
+64,A36,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+59,A37,Existing,No response,,2,,Reception,Not Sure,No
+65,A37,Existing,No response,,3,,Reception,Not Sure,No
+60,A38,Existing,No response,,2,,Invalid,,Not Sure
+61,A39,Existing,Not Interested,VM/Email,2,,Direct Line,Not Sure,Not Sure
+63,A39,Existing,Not Interested,VM/Email,2,,Reception,Not Sure,Not Sure
+66,A39,Existing,Not Interested,VM/Email,2,,Direct Line,Not Important,Not Sure
+,A39,New,Not Interested,,1,,Direct Line,Important,Not Sure
+67,A40,Existing,Not Interested,VM/Email,1,,Direct Line,Not Important,Not Sure
+68,A41,Existing,No response,VM/Email,3,,Reception,Not Important,Not Sure
+69,A41,Existing,No response,,,,Repeat Number,,Not Sure
+70,A41,Existing,No response,,,,Repeat Number,,Not Sure
+71,A42,Existing,No response,,2,,Invalid,Not Sure,Not Sure
+72,A43,Existing,No response,,1,,Not Sure,,Not Sure
+73,A44,Existing,Wrong POC,Phone,2,,Reception,Not Important,Not Sure
+74,A44,Existing,No response,,3,,Reception,Important,Not Sure
+75,A44,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+1242,A45,Existing,No response,,3,,Reception,Not Sure,No
+1296,A45,Existing,No response,,3,,Reception,Not Sure,No
+52,A46,Existing,No response,,2,,Invalid,Not Sure,Not Sure
+51,A47,Existing,Not Interested,,2,,Reception,Not Sure,Not Sure
+,A47,New,Not Interested,,1,,Direct Line,Important,Not Sure
+53,A48,Existing,No response,,3,,Reception,Not Sure,Not Sure
+,A48,New,No response,,3,,Reception,Not Sure,Not Sure
+1341,A49,Existing,No response,,3,,Reception,Not Sure,Not Sure
+54,A50,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+56,A50,Existing,No response,,3,,Reception,Important,Not Sure
+55,A51,Existing,Wrong POC,VM/Email,1,,Reception,Not Important,Not Sure
+79,A51,Existing,No response,,3,,Reception,Not Sure,Not Sure
+80,A52,Existing,Not Interested,,2,Cold,Direct Line,Important,Not Sure
+76,A53,Existing,No response,,1,,Not Sure,,Not Sure
+77,A53,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+78,A54,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+81,A55,Existing,Not Interested,,1,,Direct Line,Important,Yes
+83,A55,Existing,No response,,1,,Not Sure,,Not Sure
+82,A56,Existing,Wrong POC,,1,,Reception,Not Sure,Not Sure
+,A56,New,Wrong POC,,3,,Reception,Not Important,Yes
+,A56,New,Wrong POC,Phone,2,,Direct Line,Not Important,Not Sure
+84,A57,Existing,No response,,3,,Direct Line,Important,Not Sure
+85,A57,Existing,Wrong POC,,3,,Direct Line,Not Sure,Not Sure
+87,A57,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+89,A57,Existing,Wrong POC,,3,,Reception,Not Sure,No
+86,A58,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+88,A58,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+91,A59,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+90,A60,Existing,No response,,3,,Reception,Important,Not Sure
+92,A61,Existing,No response,,3,,Reception,Not Sure,Not Sure
+93,A62,Existing,No response,,3,,Reception,Important,Not Sure
+94,A63,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+95,A63,Existing,Wrong POC,,1,,Invalid,Not Important,Not Sure
+96,A63,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+97,A63,Existing,Wrong POC,,,,Repeat Number,Not Important,Not Sure
+98,A63,Existing,Wrong POC,,1,,Repeat Number,Not Important,Not Sure
+99,A63,Existing,Wrong POC,,1,,Repeat Number,Not Important,Not Sure
+100,A63,Existing,Wrong POC,,1,,Repeat Number,Not Important,Not Sure
+,A63,New,No response,,3,,Direct Line,Not Sure,Not Sure
+107,A63,Existing,Open,,,,,,Not Sure
+108,A63,Existing,Open,,,, ,,Not Sure
+111,A63,Existing,No response,,1,,Direct Line,Important,Not Sure
+113,A63,Existing,Wrong POC,,,,Direct Line,Not Important,Not Sure
+1336,A64,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+,A56,New,Not Interested,,4,,Direct Line,Important,Not Sure
+109,A65,Existing,Not Interested,,4,,Direct Line,Not Sure,Not Sure
+116,A65,Existing,Wrong POC,,1,,Direct Line,Not Sure,Not Sure
+106,A66,Existing,No response,,3,,Reception,Important,Not Sure
+110,A67,Existing,No response,,3,,Direct Line,Important,Not Sure
+112,A67,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+1360,A67,Existing,No response,,3,,Reception,Not Sure,Not Sure
+114,A68,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A68,New,No response,,3,,Reception,Not Important,Not Sure
+115,A69,Existing,,,,, ,,Not Sure
+117,A70,Existing,,,,, ,,No
+118,A71,Existing,,,,, ,,Not Sure
+119,A72,Existing,,,,, ,,Yes
+120,A72,Existing,,,,, ,,No
+121,A73,Existing,,,,, ,,Not Sure
+122,A74,Existing,,,,, ,,No
+123,A74,Existing,,,,, ,,No
+124,A74,Existing,,,,, ,,Not Sure
+102,A75,Existing,No response,,3,,Invalid,Not Sure,Not Sure
+125,A75,Existing,No response,,3,,Reception,Not Sure,Not Sure
+101,A76,Existing,No response,,3,,Reception,Not Important,Not Sure
+103,A77,Existing,Wrong POC,,3,,Reception,Not Sure,Not Sure
+,A77,New,No response,,3,,Reception,Not Sure,Not Sure
+104,A78,Existing,No response,,3,,Reception,Not Sure,Not Sure
+105,A79,Existing,No response,,1,,Direct Line,Important,Not Sure
+126,A79,Existing,Wrong POC,VM/Email,1,,Reception,Not Sure,Not Sure
+127,A79,Existing,Not Interested,,1,,Direct Line,Not Important,Not Sure
+128,A79,Existing,Wrong POC,VM/Email,1,,Reception,Not Sure,Not Sure
+129,A79,Existing,Wrong POC,VM/Email,2,,Reception,Not Sure,Not Sure
+,A79,New,No response,,3,,Reception,Not Sure,Not Sure
+130,A79,New,No response,,4,,Direct Line,Not Important,Not Sure
+133,A80,Existing,,,,, ,,Not Sure
+134,A81,Existing,Not Interested,,1,,Not Sure,Not Sure,Yes
+131,A82,Existing,,,1,,Invalid,Not Important,No
+,A82,New,Not Interested,,1,,Reception,Not Important,Not Sure
+132,A82,Existing,Not Interested,,1,,Reception,Not Important,Not Sure
+,A82,,,,,,,,
+135,A83,Existing,Not Interested,,4,,Reception,Important,Not Sure
+136,A84,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+137,A84,Existing,,,,, ,,Not Sure
+138,A84,Existing,,,,, ,,Not Sure
+139,A85,Existing,,,,, ,,Not Sure
+140,A86,Existing,,,,, ,,Not Sure
+141,A86,Existing,,,,, ,,Not Sure
+142,A87,Existing,No response,,1,,Reception,Not Sure,Not Sure
+143,A87,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+144,A88,Existing,,,,, ,,Not Sure
+145,A88,Existing,,,,, ,,Not Sure
+,A88,New,No response,,2,,Invalid,Not Important,Not Sure
+146,A89,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+147,A89,Existing,Wrong POC,,,,Reception,Not Important,Not Sure
+148,A89,Existing,Wrong POC,,,,Reception,Not Important,Not Sure
+149,A89,Existing,Wrong POC,,,,Reception,Not Important,Not Sure
+,A89,New,No response,,3,,Reception,Not Sure,Not Sure
+150,A90,Existing,Wrong POC,,3,,Reception,Not Important,Not Sure
+,A90,New,No response,,3,,Reception,Not Sure,Not Sure
+153,A91,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+154,A91,Existing,No response,,,,Invalid,Not Sure,Not Sure
+155,A91,Existing,No response,,,,Invalid,Not Sure,Not Sure
+156,A91,Existing,No response,,,,Invalid,Not Sure,Not Sure
+157,A91,Existing,No response,,,,Invalid,Not Sure,Not Sure
+1225,A92,Existing,,,1,,Invalid,Not Sure,Not Sure
+1229,A93,Existing,,,,, ,,Not Sure
+,A93,New,No response,,3,,Direct Line,Not Sure,
+158,A94,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+159,A95,Existing,,,,, ,,Not Sure
+160,A95,Existing,,,,, ,,Not Sure
+1213,A96,Existing,Not Interested,,1,,Invalid,Not Sure,Not Sure
+161,A97,Existing,,,,, ,,Not Sure
+162,A97,Existing,,,,, ,,Not Sure
+164,A97,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A97,,No response,,3,,Reception,Not Sure,Not Sure
+165,A98,Existing,Not Interested,,1,,Reception,Not Sure,Not Sure
+163,A99,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+166,A99,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A99,New,No response,,3,,Reception,Not Sure,Not Sure
+168,A100,Existing,Wrong POC,,3,,Reception,Not Sure,Yes
+,A100,New,No response,,3,,Reception,Not Sure,Not Sure
+167,A101,Existing,No response,,3,,Reception,Not Sure,Not Sure
+170,A102,Existing,Not Interested,,1,,Reception,Important,Not Sure
+169,A103,Existing,Wrong POC,VM/Email,1,,Reception,Not Important,Not Sure
+1222,A104,Existing,Not Interested,,2,,Direct Line,Not Sure,Not Sure
+171,A105,Existing,,,,,,,
+172,A106,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+1259,A107,Existing,No response,,3,,Reception,Not Sure,Not Sure
+1251,A108,Existing,Not Interested,,2,,Direct Line,Important,Not Sure
+1307,A108,Existing,Wrong POC,,,,Not Sure,,Not Sure
+177,A109,Existing,No response,,3,,Reception,Not Sure,Yes
+151,A110,Existing,Not Interested,VM/Email,2,,Reception,Not Sure,Not Sure
+152,A110,Existing,Not Interested,,1,,Direct Line,Not Sure,Not Sure
+173,A110,Existing,,,,, ,,Not Sure
+174,A110,Existing,,,,, ,,Not Sure
+176,A110,Existing,,,,, ,,Not Sure
+175,A111,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+178,A111,Existing,,,,, ,,Not Sure
+180,A112,Existing,Not Interested,,1,,Direct Line,Important,Not Sure
+179,A113,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+181,A114,Existing,No response,,3,,Reception,Not Sure,Not Sure
+182,A114,Existing,,,,,,Not Sure,Not Sure
+184,A115,Existing,No response,,3,,Reception,Not Sure,Not Sure
+183,A116,Existing,,,,,,,
+185,A116,Existing,No response,,3,,Reception,Not Sure,Not Sure
+186,A117,Existing,No response,,3,,Reception,Not Sure,Not Sure
+1262,A118,Existing,,,,, ,,Not Sure
+187,A119,Existing,,,,, ,,Not Sure
+,A119,New,Wrong POC,,3,,Reception,Not Important,Not Sure
+,A119,New,Not Interested,,2,,Direct Line,Important,Not Sure
+188,A120,Existing,Not Interested,,1,,Direct Line,Important,Not Sure
+189,A121,Existing,Lead,,2,Warm,Direct Line,Important,Not Sure
+190,A122,Existing,Wrong POC,VM/Email,2,,Reception,Not Sure,Not Sure
+,A122,New,No response,,3,,Reception,Important,Not Sure
+191,A123,Existing,No response,,3,,Reception,Not Sure,Not Sure
+192,A123,Existing,Not Interested,,2,,Reception,Not Sure,Yes
+193,A124,Existing,No response,,2,,Reception,Not Sure,Not Sure
+194,A124,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+195,A125,Existing,No response,,3,,Reception,Not Sure,Not Sure
+196,A126,Existing,Wrong POC,,3,,Reception,Not Sure,Not Sure
+1263,A127,Existing,,,,,Invalid,,Not Sure
+1267,A127,Existing,Not Interested,,4,,Direct Line,Not Sure,Yes
+1258,A128,Existing,No response,,3,,Reception,Not Sure,Not Sure
+1303,A128,Existing,,,,, ,,Not Sure
+197,A129,Existing,,,,, ,,Not Sure
+198,A129,Existing,,,,, ,,Not Sure
+,A128,New,No response,,3,,Reception,Important,Yes
+215,A130,Existing,No response,,3,,Reception,Not Sure,Not Sure
+1233,A131,Existing,No response,,3,,Reception,Not Sure,Not Sure
+1309,A131,Existing,,,,, ,,Not Sure
+199,A132,Existing,No response,,1,,Reception,Not Sure,Not Sure
+,A131,,,,,,,,
+1269,A133,Existing,No response,,5,,Reception,Not Sure,Not Sure
+1302,A133,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A133,New,No response,,3,,Reception,Not Important,Not Sure
+200,A134,Existing,,,,, ,,Not Sure
+216,A134,Existing,,,,, ,,Not Sure
+217,A135,Existing,Lead,,4,Warm,Reception,Not Sure,Not Sure
+218,A135,Existing,,,,, ,,Not Sure
+219,A135,Existing,,,,, ,,Not Sure
+220,A136,Existing,No response,,3,,Reception,Not Sure,Not Sure
+221,A136,Existing,,,,, ,,Not Sure
+222,A136,Existing,,,,, ,,Not Sure
+223,A137,Existing,No response,,3,,Reception,Not Sure,Not Sure
+225,A137,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+224,A138,Existing,Not Interested,,3,,Direct Line,Not Sure,Not Sure
+203,A139,Existing,Not Interested,,2,,Reception,Not Sure,Yes
+205,A140,Existing,Wrong POC,,3,,Reception,Not Sure,Not Sure
+,A140,New,Wrong POC,,3,,Reception,Not Sure,Not Sure
+204,A141,Existing,No response,,2,,Reception,Not Sure,Not Sure
+201,A142,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A140,New,No response,,3,,Reception,Not Sure,Not Sure
+,A142,New,No response,,3,,Reception,Not Sure,Not Sure
+210,A142,Existing,,,,, ,,Not Sure
+208,A143,Existing,No response,,3,,Reception,Not Sure,Not Sure
+202,A144,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+,A144,New,No response,,3,,Reception,Important,Not Sure
+1345,A145,Existing,No response,,2,,Direct Line,Not Sure,Not Sure
+1370,A146,Existing,No response,,3,,Reception,Not Sure,Not Sure
+206,A147,Existing,,,,,,,
+207,A147,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+209,A147,Existing,Wrong POC,,1,, ,,Not Sure
+211,A147,Existing,Wrong POC,,1,, ,,Not Sure
+212,A147,Existing,Wrong POC,,1,, ,,Not Sure
+214,A147,Existing,Wrong POC,,1,, ,,Not Sure
+226,A147,Existing,,,,, ,,Not Sure
+227,A147,Existing,,,,, ,,Not Sure
+228,A147,Existing,,,,, ,,Not Sure
+230,A148,Existing,No response,,3,,Reception,,Not Sure
+213,A149,Existing,No response,,3,,Reception,,Not Sure
+231,A150,Existing,,,,, ,,Not Sure
+,A150,New,Lead,,3,Cold,Reception,Not Important,Yes
+229,A151,Existing,Wrong POC,VM/Email,2,,Reception,Not Sure,Not Sure
+232,A151,Existing,,,1,, ,,Not Sure
+,A151,New,No response,,3,,Reception,Not Sure,Not Sure
+233,A152,Existing,Wrong POC,,1,,Reception,Not Important,No
+1252,A153,Existing,No response,,3,,Reception,Not Sure,Not Sure
+1268,A153,Existing,No response,,3,,Reception,Not Sure,Not Sure
+1299,A153,Existing,Wrong POC,VM/Email,3,,Reception,Not Sure,Not Sure
+234,A154,Existing,Not Interested,,2,,Reception,Not Sure,Yes
+235,A154,Existing,Not Interested,,1,,Reception,Not Sure,Not Sure
+238,A154,Existing,Not Interested,,,,Reception,Not Sure,Not Sure
+236,A155,Existing,No response,,3,,Reception,Not Sure,Not Sure
+237,A155,Existing,No response,,3,,Reception,Not Sure,Not Sure
+239,A156,Existing,No response,VM/Email,3,,Invalid,Not Sure,Not Sure
+241,A157,Existing,Wrong POC,VM/Email,2,,Reception,Not Sure,Not Sure
+246,A157,Existing,Wrong POC,VM/Email,2,,Reception,Not Sure,Not Sure
+,A157,New,Wrong POC,VM/Email,2,,Reception,Not Sure,Not Sure
+,A157,New,Not Interested,,3,,Direct Line,Not Sure,Not Sure
+243,A158,Existing,No response,,3,,Reception,Not Sure,No
+249,A158,Existing,No response,,3,,Reception,Not Sure,No
+245,A159,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+247,A159,Existing,Wrong POC,,,,Reception,Not Sure,Not Sure
+1330,A160,Existing,No response,,1,,Direct Line,Not Sure,Not Sure
+240,A161,Existing,Not Interested,,3,,Direct Line,Not Sure,Not Sure
+,A159,New,Lead,,2,Warm,Reception,Important,Not Sure
+248,A162,Existing,No response,,3,,Reception,Not Sure,Not Sure
+242,A163,Existing,No response,,3,,Reception,Not Sure,Not Sure
+244,A163,Existing,Wrong POC,,1,,Reception,Not Sure,Not Sure
+250,A163,Existing,No response,,1,,Reception,Not Important,Not Sure
+1320,A163,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+,A163,New,No response,,3,,Reception,Not Sure,Not Sure
+1325,A163,Existing,Wrong POC,,3,,Reception,Not Important,No
+270,A164,Existing,No response,,1,,Reception,Not Sure,Not Sure
+251,A165,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+,A165,New,,,,,,,
+271,A165,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+,A165,New,No response,VM/Email,1,,Reception,Not Sure,Not Sure
+272,A166,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+1291,A167,Existing,Lead,,3,Cold,Reception,Not Sure,Not Sure
+273,A168,Existing,Not Interested,,2,,Direct Line,Not Sure,Not Sure
+274,A168,Existing,Wrong POC,,3,,Reception,Not Sure,Not Sure
+1334,A169,Existing,Not Interested,Phone,4,,Reception,Not Sure,Not Sure
+,A168,New,Lead,,2,Cold,Direct Line,Important,Yes
+275,A170,Existing,No response,,3,,Reception,Not Important,Yes
+252,A171,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A171,New,No response,,3,,Reception,Not Sure,Not Sure
+253,A172,Existing,Wrong POC,,2,,Direct Line,Not Important,Not Sure
+,A172,New,No response,,3,,Reception,Important,Not Sure
+254,A172,Existing,No response,,3,,Reception,Not Sure,Not Sure
+255,A172,Existing,Wrong POC,,,,Reception,Not Important,Yes
+256,A173,Existing,Wrong POC,,1,,Reception,Not Important,No
+257,A173,Existing,Wrong POC,,2,,Reception,Not Important,No
+258,A173,Existing,Follow-up,VM/Email,1,,Reception,Not Sure,Not Sure
+259,A173,Existing,No response,VM/Email,1,,Reception,Not Sure,Not Sure
+,A173,New,No response,,3,,Direct Line,Not Sure,Not Sure
+260,A174,Existing,No response,,3,,Reception,Not Sure,Not Sure
+261,A174,Existing,No response,,1,,Reception,Not Sure,No
+262,A175,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+1265,A176,Existing,Wrong POC,,1,,Reception,Not Sure,Not Sure
+,A176,New,Wrong POC,,3,,Direct Line,Not Important,Not Sure
+1286,A176,Existing,Wrong POC,,1,,Reception,Not Sure,Not Sure
+,A176,New,Follow-up,VM/Email,2,,Direct Line,Important,Not Sure
+265,A177,Existing,No response,,3,,Reception,Not Important,Yes
+,A177,New,No response,,3,,Reception,Not Sure,Not Sure
+266,A177,Existing,No response,,3,,Reception,Not Sure,Not Sure
+267,A178,Existing,Wrong POC,,3,,Direct Line,Not Important,Not Sure
+1215,A179,Existing,No response,,1,,Invalid,Not Sure,No
+,A178,New,Follow-up,VM/Email,1,,Not Sure,Important,Yes
+263,A180,Existing,Wrong POC,,2,,Reception,Not Sure,Not Sure
+,A180,New,No response,,3,,Reception,Not Sure,Not Sure
+264,A180,Existing,,,,, ,,Not Sure
+,A181,New,Wrong POC,VM/Email,2,,Reception,Not Sure,Not Sure
+281,A181,Existing,Wrong POC,VM/Email,2,,Reception,Not Sure,Not Sure
+1230,A182,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+268,A183,Existing,Follow-up,VM/Email,3,,Reception,Not Sure,Not Sure
+269,A183,Existing,Wrong POC,,,,,,
+280,A183,Existing,Wrong POC,,,,,,
+282,A183,Existing,Wrong POC,,,,,,
+283,A183,Existing,Wrong POC,,,,,,
+284,A183,Existing,Wrong POC,,,,,,
+285,A183,Existing,Wrong POC,,,,,,
+286,A184,Existing,Wrong POC,,1,,Reception,Not Sure,Not Sure
+287,A184,Existing,No response,,3,,Reception,Not Sure,Not Sure
+288,A185,Existing,Not Interested,,2,,Reception,Not Sure,Not Sure
+289,A185,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+290,A186,Existing,Wrong POC,VM/Email,1,,Reception,Not Sure,Not Sure
+291,A186,Existing,,,,,Reception,Not Sure,Not Sure
+1342,A187,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A187,New,No response,,2,,Invalid,Not Sure,Not Sure
+1283,A188,Existing,,,,,,,
+,A188,New,No response,,2,,Invalid,Not Sure,Not Sure
+1323,A188,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+294,A189,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+292,A190,Existing,No response,,3,,Reception,Not Sure,Not Sure
+293,A190,Existing,Wrong POC,,,,,,
+295,A190,Existing,Wrong POC,,,,Reception,Not Sure,Not Sure
+,A190,New,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+296,A190,Existing,Wrong POC,,,,,,
+297,A191,Existing,No response,,3,,Reception,Not Sure,Not Sure
+300,A191,Existing,,,,,,,
+299,A192,Existing,No response,,2,,Reception,Not Sure,Not Sure
+298,A193,Existing,Wrong POC,,1,,Reception,Not Important,Not Sure
+,A193,New,No response,,2,,Reception,Not Sure,No
+276,A194,Existing,No response,,1,,Reception,Not Sure,Not Sure
+277,A195,Existing,No response,,1,,Reception,Not Important,Not Sure
+,A195,New,,,,,Reception,Not Important,Not Sure
+1236,A196,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+1298,A196,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+279,A197,Existing,No response,,3,,Reception,Not Sure,Not Sure
+278,A198,Existing,Wrong POC,,1,,Reception,Not Sure,Not Sure
+301,A198,Existing,Wrong POC,,1,,Reception,Not Sure,Not Sure
+,A198,New,Not Interested,,1,,,,
+302,A199,Existing,,,,,Reception,Not Sure,Not Sure
+303,A199,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+304,A200,Existing,No response,,3,,Reception,Not Sure,Not Sure
+305,A200,Existing,,,,,,,
+306,A200,Existing,,,,,,,
+307,A201,Existing,Follow-up,VM/Email,1,,Reception,Not Sure,No
+,A201,,Lead,,1,Cold,Reception,Important,Not Sure
+308,A202,Existing,Not Interested,,3,,Reception,Not Sure,Not Sure
+309,A203,Existing,No response,,3,,Reception,Not Sure,Not Sure
+311,A203,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+310,A204,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+312,A204,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+313,A204,Existing,No response,,3,,Reception,Not Sure,Not Sure
+315,A204,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+1280,A205,Existing,No response,,3,,Direct Line,Not Sure,Not Sure
+1306,A205,Existing,No response,,3,,Reception,Not Sure,Not Sure
+314,A206,Existing,No response,VM/Email,1,,Reception,Not Sure,Yes
+316,A207,Existing,Follow-up,Phone,2,,Reception,Not Sure,Not Sure
+319,A207,Existing,,,,,,,
+317,A208,Existing,No response,VM/Email,1,,Reception,Not Sure,Not Sure
+320,A208,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+321,A209,Existing,Wrong POC,,1,,Reception,Not Sure,No
+1321,A210,Existing,Wrong POC,VM/Email,1,,Reception,Not Important,No
+,A210,New,Follow-up,VM/Email,1,,Reception,Not Sure,Not Sure
+318,A211,Existing,,,,,,,
+322,A211,Existing,,,,,,,
+,A211,New,No response,VM/Email,2,,Direct Line,Not Sure,Not Sure
+334,A212,Existing,Follow-up,VM/Email,2,,Reception,Not Important,Not Sure
+,A212,Existing,Follow-up,VM/Email,,,Reception,Important,Not Sure
+324,A213,Existing,Follow-up,VM/Email,2,,Reception,Not Sure,Not Sure
+325,A214,Existing,Not Interested,,2,,Reception,Not Sure,Not Sure
+1224,A215,Existing,No response,,1,,Invalid,Not Sure,Not Sure
+323,A216,Existing,,,,,,,
+335,A216,Existing,,,,,,,
+336,A216,Existing,,,,,,,
+337,A216,Existing,Wrong POC,,1,,Invalid,Not Important,Not Sure
+338,A217,Existing,,,,, ,,Not Sure
+339,A217,Existing,,,,, ,,Not Sure
+340,A217,Existing,,,,, ,,Not Sure
+341,A217,Existing,,,,, ,,Not Sure
+342,A217,Existing,,,,,,,Not Sure
+343,A217,Existing,,,,, ,,Not Sure
+344,A218,Existing,,,,, ,,Not Sure
+345,A218,Existing,,,,, ,,Not Sure
+347,A219,Existing,,,,, ,,Not Sure
+346,A220,Existing,,,,, ,,Not Sure
+348,A220,Existing,,,,, ,,Not Sure
+349,A220,Existing,,,,, ,,Not Sure
+350,A221,Existing,,,,, ,,Not Sure
+326,A222,Existing,,,,, ,,Not Sure
+327,A222,Existing,,,,, ,,Not Sure
+328,A222,Existing,,,,, ,,Not Sure
+330,A223,Existing,,,,, ,,Not Sure
+329,A224,Existing,,,,, ,,Not Sure
+332,A224,Existing,,,,, ,,Not Sure
+331,A225,Existing,,,,, ,,Not Sure
+333,A226,Existing,,,,, ,,Not Sure
+351,A227,Existing,,,,, ,,Not Sure
+352,A228,Existing,,,,, ,,Not Sure
+353,A228,Existing,,,,, ,,Not Sure
+354,A228,Existing,,,,, ,,Not Sure
+355,A228,Existing,,,,, ,,Not Sure
+14,A229,Existing,Not Interested,,2,,Direct Line,Important,Not Sure
+356,A230,Existing,,,,, ,,Not Sure
+357,A230,Existing,,,,, ,,Not Sure
+358,A230,Existing,,,,, ,,Not Sure
+360,A230,Existing,,,,, ,,Not Sure
+359,A231,Existing,,,,, ,,Not Sure
+362,A232,Existing,,,,, ,,Not Sure
+363,A233,Existing,,,,, ,,Not Sure
+361,A234,Existing,,,,, ,,Not Sure
+364,A235,Existing,,,,, ,,Not Sure
+368,A235,Existing,,,,, ,,Not Sure
+369,A235,Existing,,,,, ,,Not Sure
+1235,A236,Existing,,,,, ,,Not Sure
+365,A237,Existing,,,,, ,,Not Sure
+1364,A238,Existing,,,,, ,,Not Sure
+1356,A239,Existing,,,,, ,,Not Sure
+1368,A240,Existing,,,,, ,,Not Sure
+1300,A241,Existing,,,,, ,,Not Sure
+366,A242,Existing,,,,, ,,Not Sure
+367,A242,Existing,,,,, ,,Not Sure
+370,A243,Existing,,,,, ,,Not Sure
+371,A243,Existing,,,,, ,,Not Sure
+373,A243,Existing,,,,, ,,Not Sure
+1344,A244,Existing,,,,, ,,Not Sure
+372,A245,Existing,,,,, ,,Not Sure
+374,A246,Existing,,,,, ,,Not Sure
+375,A246,Existing,,,,, ,,Not Sure
+395,A247,Existing,,,,, ,,Not Sure
+377,A248,Existing,,,,, ,,Not Sure
+396,A248,Existing,,,,, ,,Not Sure
+397,A248,Existing,,,,, ,,Not Sure
+399,A248,Existing,,,,, ,,Not Sure
+376,A249,Existing,,,,, ,,Not Sure
+398,A249,Existing,,,,, ,,Not Sure
+400,A249,Existing,,,,, ,,Not Sure
+378,A250,Existing,,,,, ,,Not Sure
+379,A250,Existing,,,,, ,,Not Sure
+380,A251,Existing,,,,, ,,Not Sure
+381,A252,Existing,,,,, ,,Not Sure
+382,A252,Existing,,,,, ,,Not Sure
+383,A253,Existing,,,,, ,,Not Sure
+384,A254,Existing,,,,, ,,Not Sure
+385,A255,Existing,,,,, ,,Not Sure
+387,A255,Existing,,,,, ,,Not Sure
+386,A256,Existing,,,,, ,,Not Sure
+388,A256,Existing,,,,, ,,Not Sure
+390,A257,Existing,,,,, ,,Not Sure
+389,A258,Existing,,,,, ,,Not Sure
+1273,A259,Existing,,,,, ,,Not Sure
+1278,A259,Existing,,,,, ,,Not Sure
+391,A260,Existing,,,,, ,,Not Sure
+392,A260,Existing,,,,, ,,Not Sure
+393,A260,Existing,,,,, ,,Not Sure
+394,A261,Existing,,,,, ,,Not Sure
+404,A261,Existing,,,,, ,,Not Sure
+405,A261,Existing,,,,, ,,Not Sure
+406,A262,Existing,,,,, ,,Not Sure
+407,A262,Existing,,,,, ,,Not Sure
+409,A262,Existing,,,,, ,,Not Sure
+408,A263,Existing,,,,, ,,Not Sure
+1277,A264,Existing,,,,, ,,Not Sure
+416,A265,Existing,,,,, ,,Not Sure
+411,A266,Existing,,,,, ,,Not Sure
+1223,A267,Existing,,,,, ,,Not Sure
+412,A268,Existing,,,,, ,,Not Sure
+410,A269,Existing,,,,, ,,Not Sure
+414,A269,Existing,,,,, ,,Not Sure
+413,A270,Existing,,,,, ,,Not Sure
+415,A270,Existing,,,,, ,,Not Sure
+417,A271,Existing,,,,, ,,Not Sure
+418,A271,Existing,,,,, ,,Not Sure
+1359,A272,Existing,,,,, ,,Not Sure
+1372,A273,Existing,,,,, ,,Not Sure
+1313,A274,Existing,,,,, ,,Not Sure
+419,A275,Existing,,,,, ,,Not Sure
+420,A276,Existing,,,,, ,,Not Sure
+421,A277,Existing,,,,, ,,Not Sure
+422,A278,Existing,,,,, ,,Not Sure
+423,A279,Existing,,,,, ,,Not Sure
+424,A279,Existing,,,,, ,,Not Sure
+1275,A280,Existing,,,,, ,,Not Sure
+1288,A280,Existing,,,,, ,,Not Sure
+425,A281,Existing,,,,, ,,Not Sure
+403,A282,Existing,,,,, ,,Not Sure
+401,A283,Existing,,,,, ,,Not Sure
+402,A284,Existing,,,,, ,,Not Sure
+426,A285,Existing,,,,, ,,Not Sure
+427,A286,Existing,,,,, ,,Not Sure
+428,A287,Existing,,,,, ,,Not Sure
+429,A287,Existing,,,,, ,,Not Sure
+430,A288,Existing,,,,, ,,Not Sure
+434,A289,Existing,,,,, ,,Not Sure
+431,A290,Existing,,,,, ,,Not Sure
+432,A291,Existing,,,,, ,,Not Sure
+436,A292,Existing,,,,, ,,Not Sure
+433,A293,Existing,,,,, ,,Not Sure
+435,A293,Existing,,,,, ,,Not Sure
+437,A294,Existing,,,,, ,,Not Sure
+438,A295,Existing,,,,, ,,Not Sure
+439,A295,Existing,,,,, ,,Not Sure
+440,A296,Existing,,,,, ,,Not Sure
+441,A297,Existing,,,,, ,,Not Sure
+1305,A298,Existing,,,,, ,,Not Sure
+442,A299,Existing,,,,, ,,Not Sure
+443,A300,Existing,,,,, ,,Not Sure
+444,A300,Existing,,,,, ,,Not Sure
+445,A300,Existing,,,,, ,,Not Sure
+446,A301,Existing,,,,, ,,Not Sure
+447,A301,Existing,,,,, ,,Not Sure
+449,A302,Existing,,,,, ,,Not Sure
+448,A303,Existing,,,,, ,,Not Sure
+1284,A304,Existing,,,,, ,,Not Sure
+1322,A304,Existing,,,,, ,,Not Sure
+450,A305,Existing,,,,, ,,Not Sure
+465,A305,Existing,,,,, ,,Not Sure
+464,A306,Existing,,,,, ,,Not Sure
+466,A306,Existing,,,,, ,,Not Sure
+467,A307,Existing,,,,, ,,Not Sure
+469,A307,Existing,,,,, ,,Not Sure
+468,A308,Existing,,,,, ,,Not Sure
+470,A308,Existing,,,,, ,,Not Sure
+471,A308,Existing,,,,, ,,Not Sure
+472,A309,Existing,,,,, ,,Not Sure
+452,A310,Existing,,,,, ,,Not Sure
+473,A310,Existing,,,,, ,,Not Sure
+451,A311,Existing,,,,, ,,Not Sure
+474,A311,Existing,,,,, ,,Not Sure
+475,A312,Existing,,,,, ,,Not Sure
+453,A313,Existing,,,,, ,,Not Sure
+454,A314,Existing,,,,, ,,Not Sure
+455,A314,Existing,,,,, ,,Not Sure
+456,A314,Existing,,,,, ,,Not Sure
+457,A314,Existing,,,,, ,,Not Sure
+458,A315,Existing,,,,, ,,Not Sure
+459,A315,Existing,,,,, ,,Not Sure
+460,A316,Existing,,,,, ,,Not Sure
+461,A316,Existing,,,,, ,,Not Sure
+462,A316,Existing,,,,, ,,Not Sure
+463,A316,Existing,,,,, ,,Not Sure
+1244,A317,Existing,,,,, ,,Not Sure
+477,A318,Existing,,,,, ,,Not Sure
+478,A318,Existing,,,,, ,,Not Sure
+476,A319,Existing,,,,, ,,Not Sure
+479,A319,Existing,,,,, ,,Not Sure
+1349,A320,Existing,,,,, ,,Not Sure
+1348,A321,Existing,,,,, ,,Not Sure
+480,A322,Existing,,,,, ,,Not Sure
+481,A323,Existing,,,,, ,,Not Sure
+483,A324,Existing,,,,, ,,Not Sure
+482,A325,Existing,,,,, ,,Not Sure
+484,A326,Existing,,,,, ,,Not Sure
+485,A327,Existing,,,,, ,,Not Sure
+486,A327,Existing,,,,, ,,Not Sure
+487,A327,Existing,,,,, ,,Not Sure
+488,A327,Existing,,,,, ,,Not Sure
+489,A327,Existing,,,,, ,,Not Sure
+490,A327,Existing,,,,, ,,Not Sure
+491,A327,Existing,,,,, ,,Not Sure
+492,A327,Existing,,,,, ,,Not Sure
+493,A327,Existing,,,,, ,,Not Sure
+494,A327,Existing,,,,, ,,Not Sure
+496,A328,Existing,,,,, ,,Not Sure
+13,A329,Existing,Not Interested,,1,,Direct Line,Important,Not Sure
+495,A329,Existing,,,,, ,,Not Sure
+497,A330,Existing,,,,, ,,Not Sure
+498,A331,Existing,,,,, ,,Not Sure
+499,A331,Existing,,,,, ,,Not Sure
+500,A332,Existing,,,,, ,,Not Sure
+501,A332,Existing,,,,, ,,Not Sure
+520,A332,Existing,,,,, ,,Not Sure
+521,A332,Existing,,,,, ,,Not Sure
+522,A332,Existing,,,,, ,,Not Sure
+523,A332,Existing,,,,, ,,Not Sure
+524,A333,Existing,,,,, ,,Not Sure
+502,A334,Existing,,,,, ,,Not Sure
+525,A335,Existing,,,,, ,,Not Sure
+503,A336,Existing,,,,, ,,Not Sure
+504,A336,Existing,,,,, ,,Not Sure
+505,A337,Existing,,,,, ,,Not Sure
+507,A337,Existing,,,,, ,,Not Sure
+506,A338,Existing,,,,, ,,Not Sure
+1358,A339,Existing,,,,, ,,Not Sure
+508,A340,Existing,,,,, ,,Not Sure
+509,A340,Existing,,,,, ,,Not Sure
+511,A340,Existing,,,,, ,,Not Sure
+512,A340,Existing,,,,, ,,Not Sure
+510,A341,Existing,,,,, ,,Not Sure
+513,A342,Existing,,,,, ,,Not Sure
+514,A342,Existing,,,,, ,,Not Sure
+515,A342,Existing,Lead,,2,Cold,Direct Line,Not Important,Not Sure
+,,,,,,,,,
+516,,Existing,,,,, ,,Not Sure
+518,,Existing,,,,, ,,Not Sure
+517,,Existing,,,,, ,,Not Sure
+519,,Existing,,,,, ,,Not Sure
+538,,Existing,,,,, ,,Not Sure
+533,,Existing,,,,, ,,Not Sure
+534,,Existing,,,,, ,,Not Sure
+537,,Existing,,,,, ,,Not Sure
+535,,Existing,,,,, ,,Not Sure
+536,,Existing,,,,, ,,Not Sure
+539,,Existing,,,,, ,,Not Sure
+540,,Existing,,,,, ,,Not Sure
+1266,,Existing,,,,, ,,Not Sure
+541,,Existing,,,,, ,,Not Sure
+542,,Existing,,,,, ,,Not Sure
+543,,Existing,,,,, ,,Not Sure
+544,,Existing,,,,, ,,Not Sure
+545,,Existing,,,,, ,,Not Sure
+546,,Existing,,,,, ,,Not Sure
+548,,Existing,,,,, ,,Not Sure
+547,,Existing,,,,, ,,Not Sure
+1339,,Existing,,,,, ,,Not Sure
+549,,Existing,,,,, ,,Not Sure
+550,,Existing,,,,, ,,Not Sure
+1239,,Existing,,,,, ,,Not Sure
+527,,Existing,,,,, ,,Not Sure
+526,,Existing,,,,, ,,Not Sure
+528,,Existing,,,,, ,,Not Sure
+529,,Existing,,,,, ,,Not Sure
+530,,Existing,,,,, ,,Not Sure
+531,,Existing,,,,, ,,Not Sure
+532,,Existing,,,,, ,,Not Sure
+551,,Existing,,,,, ,,Not Sure
+552,,Existing,,,,, ,,Not Sure
+554,,Existing,,,,, ,,Not Sure
+553,,Existing,,,,, ,,Not Sure
+555,,Existing,,,,, ,,Not Sure
+556,,Existing,,,,, ,,Not Sure
+557,,Existing,,,,, ,,Not Sure
+558,,Existing,,,,, ,,Not Sure
+559,,Existing,,,,, ,,Not Sure
+560,,Existing,,,,, ,,Not Sure
+562,,Existing,,,,, ,,Not Sure
+563,,Existing,,,,, ,,Not Sure
+564,,Existing,,,,, ,,Not Sure
+561,,Existing,,,,, ,,Not Sure
+565,,Existing,,,,, ,,Not Sure
+566,,Existing,,,,, ,,Not Sure
+567,,Existing,,,,, ,,Not Sure
+568,,Existing,,,,, ,,Not Sure
+569,,Existing,,,,, ,,Not Sure
+570,,Existing,,,,, ,,Not Sure
+571,,Existing,,,,, ,,Not Sure
+572,,Existing,,,,, ,,Not Sure
+573,,Existing,,,,, ,,Not Sure
+1237,,Existing,,,,, ,,Not Sure
+1361,,Existing,,,,, ,,Not Sure
+574,,Existing,,,,, ,,Not Sure
+575,,Existing,,,,, ,,Not Sure
+593,,Existing,,,,, ,,Not Sure
+594,,Existing,,,,, ,,Not Sure
+595,,Existing,,,,, ,,Not Sure
+576,,Existing,,,,, ,,Not Sure
+596,,Existing,,,,, ,,Not Sure
+597,,Existing,,,,, ,,Not Sure
+598,,Existing,,,,, ,,Not Sure
+599,,Existing,,,,, ,,Not Sure
+600,,Existing,,,,, ,,Not Sure
+577,,Existing,,,,, ,,Not Sure
+1221,,Existing,,,,, ,,Not Sure
+1326,,Existing,,,,, ,,Not Sure
+579,,Existing,,,,, ,,Not Sure
+578,,Existing,,,,, ,,Not Sure
+580,,Existing,,,,, ,,Not Sure
+582,,Existing,,,,, ,,Not Sure
+581,,Existing,,,,, ,,Not Sure
+583,,Existing,,,,, ,,Not Sure
+584,,Existing,,,,, ,,Not Sure
+1245,,Existing,,,,, ,,Not Sure
+585,,Existing,,,,, ,,Not Sure
+587,,Existing,,,,, ,,Not Sure
+586,,Existing,,,,, ,,Not Sure
+588,,Existing,,,,, ,,Not Sure
+589,,Existing,,,,, ,,Not Sure
+590,,Existing,,,,, ,,Not Sure
+1365,,Existing,,,,, ,,Not Sure
+591,,Existing,,,,, ,,Not Sure
+592,,Existing,,,,, ,,Not Sure
+601,,Existing,,,,, ,,Not Sure
+603,,Existing,,,,, ,,Not Sure
+606,,Existing,,,,, ,,Not Sure
+602,,Existing,,,,, ,,Not Sure
+605,,Existing,,,,, ,,Not Sure
+607,,Existing,,,,, ,,Not Sure
+604,,Existing,,,,, ,,Not Sure
+608,,Existing,,,,, ,,Not Sure
+609,,Existing,,,,, ,,Not Sure
+610,,Existing,,,,, ,,Not Sure
+611,,Existing,,,,, ,,Not Sure
+612,,Existing,,,,, ,,Not Sure
+613,,Existing,,,,, ,,Not Sure
+615,,Existing,,,,, ,,Not Sure
+614,,Existing,,,,, ,,Not Sure
+616,,Existing,,,,, ,,Not Sure
+617,,Existing,,,,, ,,Not Sure
+618,,Existing,,,,, ,,Not Sure
+619,,Existing,,,,, ,,Not Sure
+1369,,Existing,,,,, ,,Not Sure
+620,,Existing,,,,, ,,Not Sure
+621,,Existing,,,,, ,,Not Sure
+622,,Existing,,,,, ,,Not Sure
+623,,Existing,,,,, ,,Not Sure
+624,,Existing,,,,, ,,Not Sure
+625,,Existing,,,,, ,,Not Sure
+648,,Existing,,,,, ,,Not Sure
+646,,Existing,,,,, ,,Not Sure
+647,,Existing,,,,, ,,Not Sure
+649,,Existing,,,,, ,,Not Sure
+650,,Existing,,,,, ,,Not Sure
+626,,Existing,,,,, ,,Not Sure
+1254,,Existing,,,,, ,,Not Sure
+1315,,Existing,,,,, ,,Not Sure
+627,,Existing,,,,, ,,Not Sure
+628,,Existing,,,,, ,,Not Sure
+630,,Existing,,,,, ,,Not Sure
+629,,Existing,,,,, ,,Not Sure
+631,,Existing,,,,, ,,Not Sure
+632,,Existing,,,,, ,,Not Sure
+1264,,Existing,,,,, ,,Not Sure
+1274,,Existing,,,,, ,,Not Sure
+1304,,Existing,,,,, ,,Not Sure
+1353,,Existing,,,,, ,,Not Sure
+633,,Existing,,,,, ,,Not Sure
+634,,Existing,,,,, ,,Not Sure
+635,,Existing,,,,, ,,Not Sure
+636,,Existing,,,,, ,,Not Sure
+637,,Existing,,,,, ,,Not Sure
+638,,Existing,,,,, ,,Not Sure
+639,,Existing,,,,, ,,Not Sure
+640,,Existing,,,,, ,,Not Sure
+641,,Existing,,,,, ,,Not Sure
+642,,Existing,,,,, ,,Not Sure
+643,,Existing,,,,, ,,Not Sure
+644,,Existing,,,,, ,,Not Sure
+645,,Existing,,,,, ,,Not Sure
+653,,Existing,,,,, ,,Not Sure
+654,,Existing,,,,, ,,Not Sure
+655,,Existing,,,,, ,,Not Sure
+656,,Existing,,,,, ,,Not Sure
+657,,Existing,,,,, ,,Not Sure
+1249,,Existing,,,,, ,,Not Sure
+1279,,Existing,,,,, ,,Not Sure
+658,,Existing,,,,, ,,Not Sure
+659,,Existing,,,,, ,,Not Sure
+660,,Existing,,,,, ,,Not Sure
+661,,Existing,,,,, ,,Not Sure
+662,,Existing,,,,, ,,Not Sure
+663,,Existing,,,,, ,,Not Sure
+664,,Existing,,,,, ,,Not Sure
+1346,,Existing,,,,, ,,Not Sure
+665,,Existing,,,,, ,,Not Sure
+666,,Existing,,,,, ,,Not Sure
+668,,Existing,,,,, ,,Not Sure
+667,,Existing,,,,, ,,Not Sure
+670,,Existing,,,,, ,,Not Sure
+669,,Existing,,,,, ,,Not Sure
+671,,Existing,,,,, ,,Not Sure
+672,,Existing,,,,, ,,Not Sure
+673,,Existing,,,,, ,,Not Sure
+674,,Existing,,,,, ,,Not Sure
+675,,Existing,,,,, ,,Not Sure
+1232,,Existing,,,,, ,,Not Sure
+651,,Existing,,,,, ,,Not Sure
+1329,,Existing,,,,, ,,Not Sure
+652,,Existing,,,,, ,,Not Sure
+676,,Existing,,,,, ,,Not Sure
+677,,Existing,,,,, ,,Not Sure
+678,,Existing,,,,, ,,Not Sure
+679,,Existing,,,,, ,,Not Sure
+680,,Existing,,,,, ,,Not Sure
+681,,Existing,,,,, ,,Not Sure
+683,,Existing,,,,, ,,Not Sure
+682,,Existing,,,,, ,,Not Sure
+684,,Existing,,,,, ,,Not Sure
+685,,Existing,,,,, ,,Not Sure
+686,,Existing,,,,, ,,Not Sure
+687,,Existing,,,,, ,,Not Sure
+689,,Existing,,,,, ,,Not Sure
+692,,Existing,,,,, ,,Not Sure
+691,,Existing,,,,, ,,Not Sure
+688,,Existing,,,,, ,,Not Sure
+690,,Existing,,,,, ,,Not Sure
+694,,Existing,,,,, ,,Not Sure
+693,,Existing,,,,, ,,Not Sure
+695,,Existing,,,,, ,,Not Sure
+697,,Existing,,,,, ,,Not Sure
+696,,Existing,,,,, ,,Not Sure
+698,,Existing,,,,, ,,Not Sure
+699,,Existing,,,,, ,,Not Sure
+700,,Existing,,,,, ,,Not Sure
+707,,Existing,,,,, ,,Not Sure
+708,,Existing,,,,, ,,Not Sure
+709,,Existing,,,,, ,,Not Sure
+710,,Existing,,,,, ,,Not Sure
+711,,Existing,,,,, ,,Not Sure
+712,,Existing,,,,, ,,Not Sure
+713,,Existing,,,,, ,,Not Sure
+714,,Existing,,,,, ,,Not Sure
+715,,Existing,,,,, ,,Not Sure
+716,,Existing,,,,, ,,Not Sure
+1285,,Existing,,,,, ,,Not Sure
+717,,Existing,,,,, ,,Not Sure
+718,,Existing,,,,, ,,Not Sure
+719,,Existing,,,,, ,,Not Sure
+720,,Existing,,,,, ,,Not Sure
+721,,Existing,,,,, ,,Not Sure
+722,,Existing,,,,, ,,Not Sure
+723,,Existing,,,,, ,,Not Sure
+701,,Existing,,,,, ,,Not Sure
+724,,Existing,,,,, ,,Not Sure
+725,,Existing,,,,, ,,Not Sure
+703,,Existing,,,,, ,,Not Sure
+702,,Existing,,,,, ,,Not Sure
+704,,Existing,,,,, ,,Not Sure
+705,,Existing,,,,, ,,Not Sure
+706,,Existing,,,,, ,,Not Sure
+1352,,Existing,,,,, ,,Not Sure
+1261,,Existing,,,,, ,,Not Sure
+726,,Existing,,,,, ,,Not Sure
+727,,Existing,,,,, ,,Not Sure
+728,,Existing,,,,, ,,Not Sure
+729,,Existing,,,,, ,,Not Sure
+730,,Existing,,,,, ,,Not Sure
+731,,Existing,,,,, ,,Not Sure
+732,,Existing,,,,, ,,Not Sure
+733,,Existing,,,,, ,,Not Sure
+734,,Existing,,,,, ,,Not Sure
+735,,Existing,,,,, ,,Not Sure
+736,,Existing,,,,, ,,Not Sure
+1255,,Existing,,,,, ,,Not Sure
+1319,,Existing,,,,, ,,Not Sure
+737,,Existing,,,,, ,,Not Sure
+738,,Existing,,,,, ,,Not Sure
+739,,Existing,,,,, ,,Not Sure
+740,,Existing,,,,, ,,Not Sure
+741,,Existing,,,,, ,,Not Sure
+742,,Existing,,,,, ,,Not Sure
+743,,Existing,,,,, ,,Not Sure
+744,,Existing,,,,, ,,Not Sure
+745,,Existing,,,,, ,,Not Sure
+746,,Existing,,,,, ,,Not Sure
+1227,,Existing,,,,, ,,Not Sure
+1367,,Existing,,,,, ,,Not Sure
+747,,Existing,,,,, ,,Not Sure
+748,,Existing,,,,, ,,Not Sure
+749,,Existing,,,,, ,,Not Sure
+750,,Existing,,,,, ,,Not Sure
+771,,Existing,,,,, ,,Not Sure
+772,,Existing,,,,, ,,Not Sure
+773,,Existing,,,,, ,,Not Sure
+774,,Existing,,,,, ,,Not Sure
+751,,Existing,,,,, ,,Not Sure
+753,,Existing,,,,, ,,Not Sure
+775,,Existing,,,,, ,,Not Sure
+1355,,Existing,,,,, ,,Not Sure
+752,,Existing,,,,, ,,Not Sure
+754,,Existing,,,,, ,,Not Sure
+755,,Existing,,,,, ,,Not Sure
+756,,Existing,,,,, ,,Not Sure
+757,,Existing,,,,, ,,Not Sure
+758,,Existing,,,,, ,,Not Sure
+759,,Existing,,,,, ,,Not Sure
+760,,Existing,,,,, ,,Not Sure
+761,,Existing,,,,, ,,Not Sure
+762,,Existing,,,,, ,,Not Sure
+763,,Existing,,,,, ,,Not Sure
+764,,Existing,,,,, ,,Not Sure
+765,,Existing,,,,, ,,Not Sure
+766,,Existing,,,,, ,,Not Sure
+767,,Existing,,,,, ,,Not Sure
+768,,Existing,,,,, ,,Not Sure
+769,,Existing,,,,, ,,Not Sure
+770,,Existing,,,,, ,,Not Sure
+776,,Existing,,,,, ,,Not Sure
+779,,Existing,,,,, ,,Not Sure
+780,,Existing,,,,, ,,Not Sure
+781,,Existing,,,,, ,,Not Sure
+777,,Existing,,,,, ,,Not Sure
+778,,Existing,,,,, ,,Not Sure
+782,,Existing,,,,, ,,Not Sure
+783,,Existing,,,,, ,,Not Sure
+784,,Existing,,,,, ,,Not Sure
+785,,Existing,,,,, ,,Not Sure
+786,,Existing,,,,, ,,Not Sure
+787,,Existing,,,,, ,,Not Sure
+788,,Existing,,,,, ,,Not Sure
+789,,Existing,,,,, ,,Not Sure
+791,,Existing,,,,, ,,Not Sure
+790,,Existing,,,,, ,,Not Sure
+792,,Existing,,,,, ,,Not Sure
+793,,Existing,,,,, ,,Not Sure
+794,,Existing,,,,, ,,Not Sure
+795,,Existing,,,,, ,,Not Sure
+797,,Existing,,,,, ,,Not Sure
+796,,Existing,,,,, ,,Not Sure
+798,,Existing,,,,, ,,Not Sure
+799,,Existing,,,,, ,,Not Sure
+800,,Existing,,,,, ,,Not Sure
+822,,Existing,,,,, ,,Not Sure
+823,,Existing,,,,, ,,Not Sure
+824,,Existing,,,,, ,,Not Sure
+825,,Existing,,,,, ,,Not Sure
+1243,,Existing,,,,, ,,Not Sure
+801,,Existing,,,,, ,,Not Sure
+802,,Existing,,,,, ,,Not Sure
+1256,,Existing,,,,, ,,Not Sure
+803,,Existing,,,,, ,,Not Sure
+804,,Existing,,,,, ,,Not Sure
+805,,Existing,,,,, ,,Not Sure
+806,,Existing,,,,, ,,Not Sure
+807,,Existing,,,,, ,,Not Sure
+808,,Existing,,,,, ,,Not Sure
+809,,Existing,,,,, ,,Not Sure
+811,,Existing,,,,, ,,Not Sure
+814,,Existing,,,,, ,,Not Sure
+813,,Existing,,,,, ,,Not Sure
+816,,Existing,,,,, ,,Not Sure
+1332,,Existing,,,,, ,,Not Sure
+810,,Existing,,,,, ,,Not Sure
+1272,,Existing,,,,, ,,Not Sure
+1290,,Existing,,,,, ,,Not Sure
+1324,,Existing,,,,, ,,Not Sure
+815,,Existing,,,,, ,,Not Sure
+817,,Existing,,,,, ,,Not Sure
+812,,Existing,,,,, ,,Not Sure
+818,,Existing,,,,, ,,Not Sure
+819,,Existing,,,,, ,,Not Sure
+820,,Existing,,,,, ,,Not Sure
+821,,Existing,,,,, ,,Not Sure
+835,,Existing,,,,, ,,Not Sure
+836,,Existing,,,,, ,,Not Sure
+837,,Existing,,,,, ,,Not Sure
+838,,Existing,,,,, ,,Not Sure
+839,,Existing,,,,, ,,Not Sure
+840,,Existing,,,,, ,,Not Sure
+1335,,Existing,,,,, ,,Not Sure
+841,,Existing,,,,, ,,Not Sure
+842,,Existing,,,,, ,,Not Sure
+843,,Existing,,,,, ,,Not Sure
+844,,Existing,,,,, ,,Not Sure
+845,,Existing,,,,, ,,Not Sure
+846,,Existing,,,,, ,,Not Sure
+847,,Existing,,,,, ,,Not Sure
+849,,Existing,,,,, ,,Not Sure
+848,,Existing,,,,, ,,Not Sure
+826,,Existing,,,,, ,,Not Sure
+827,,Existing,,,,, ,,Not Sure
+828,,Existing,,,,, ,,Not Sure
+850,,Existing,,,,, ,,Not Sure
+830,,Existing,,,,, ,,Not Sure
+829,,Existing,,,,, ,,Not Sure
+831,,Existing,,,,, ,,Not Sure
+832,,Existing,,,,, ,,Not Sure
+833,,Existing,,,,, ,,Not Sure
+853,,Existing,,,,, ,,Not Sure
+834,,Existing,,,,, ,,Not Sure
+851,,Existing,,,,, ,,Not Sure
+855,,Existing,,,,, ,,Not Sure
+852,,Existing,,,,, ,,Not Sure
+854,,Existing,,,,, ,,Not Sure
+856,,Existing,,,,, ,,Not Sure
+857,,Existing,,,,, ,,Not Sure
+858,,Existing,,,,, ,,Not Sure
+1282,,Existing,,,,, ,,Not Sure
+859,,Existing,,,,, ,,Not Sure
+860,,Existing,,,,, ,,Not Sure
+861,,Existing,,,,, ,,Not Sure
+862,,Existing,,,,, ,,Not Sure
+863,,Existing,,,,, ,,Not Sure
+864,,Existing,,,,, ,,Not Sure
+866,,Existing,,,,, ,,Not Sure
+865,,Existing,,,,, ,,Not Sure
+867,,Existing,,,,, ,,Not Sure
+868,,Existing,,,,, ,,Not Sure
+869,,Existing,,,,, ,,Not Sure
+870,,Existing,,,,, ,,Not Sure
+871,,Existing,,,,, ,,Not Sure
+872,,Existing,,,,, ,,Not Sure
+873,,Existing,,,,, ,,Not Sure
+1231,,Existing,,,,, ,,Not Sure
+1240,,Existing,,,,, ,,Not Sure
+1271,,Existing,,,,, ,,Not Sure
+874,,Existing,,,,, ,,Not Sure
+875,,Existing,,,,, ,,Not Sure
+1327,,Existing,,,,, ,,Not Sure
+899,,Existing,,,,, ,,Not Sure
+878,,Existing,,,,, ,,Not Sure
+898,,Existing,,,,, ,,Not Sure
+900,,Existing,,,,, ,,Not Sure
+879,,Existing,,,,, ,,Not Sure
+880,,Existing,,,,, ,,Not Sure
+876,,Existing,,,,, ,,Not Sure
+877,,Existing,,,,, ,,Not Sure
+882,,Existing,,,,, ,,Not Sure
+883,,Existing,,,,, ,,Not Sure
+886,,Existing,,,,, ,,Not Sure
+881,,Existing,,,,, ,,Not Sure
+1246,,Existing,,,,, ,,Not Sure
+1318,,Existing,,,,, ,,Not Sure
+885,,Existing,,,,, ,,Not Sure
+884,,Existing,,,,, ,,Not Sure
+887,,Existing,,,,, ,,Not Sure
+889,,Existing,,,,, ,,Not Sure
+888,,Existing,,,,, ,,Not Sure
+894,,Existing,,,,, ,,Not Sure
+890,,Existing,,,,, ,,Not Sure
+891,,Existing,,,,, ,,Not Sure
+892,,Existing,,,,, ,,Not Sure
+893,,Existing,,,,, ,,Not Sure
+895,,Existing,,,,, ,,Not Sure
+896,,Existing,,,,, ,,Not Sure
+897,,Existing,,,,, ,,Not Sure
+905,,Existing,,,,, ,,Not Sure
+901,,Existing,,,,, ,,Not Sure
+904,,Existing,,,,, ,,Not Sure
+902,,Existing,,,,, ,,Not Sure
+908,,Existing,,,,, ,,Not Sure
+911,,Existing,,,,, ,,Not Sure
+903,,Existing,,,,, ,,Not Sure
+906,,Existing,,,,, ,,Not Sure
+910,,Existing,,,,, ,,Not Sure
+1337,,Existing,,,,, ,,Not Sure
+915,,Existing,,,,, ,,Not Sure
+907,,Existing,,,,, ,,Not Sure
+914,,Existing,,,,, ,,Not Sure
+909,,Existing,,,,, ,,Not Sure
+912,,Existing,,,,, ,,Not Sure
+913,,Existing,,,,, ,,Not Sure
+917,,Existing,,,,, ,,Not Sure
+916,,Existing,,,,, ,,Not Sure
+918,,Existing,,,,, ,,Not Sure
+919,,Existing,,,,, ,,Not Sure
+920,,Existing,,,,, ,,Not Sure
+922,,Existing,,,,, ,,Not Sure
+1228,,Existing,,,,, ,,Not Sure
+921,,Existing,,,,, ,,Not Sure
+923,,Existing,,,,, ,,Not Sure
+924,,Existing,,,,, ,,Not Sure
+947,,Existing,,,,, ,,Not Sure
+925,,Existing,,,,, ,,Not Sure
+946,,Existing,,,,, ,,Not Sure
+927,,Existing,,,,, ,,Not Sure
+926,,Existing,,,,, ,,Not Sure
+928,,Existing,,,,, ,,Not Sure
+929,,Existing,,,,, ,,Not Sure
+948,,Existing,,,,, ,,Not Sure
+949,,Existing,,,,, ,,Not Sure
+950,,Existing,,,,, ,,Not Sure
+1253,,Existing,,,,, ,,Not Sure
+1301,,Existing,,,,, ,,Not Sure
+1312,,Existing,,,,, ,,Not Sure
+930,,Existing,,,,, ,,Not Sure
+936,,Existing,,,,, ,,Not Sure
+940,,Existing,,,,, ,,Not Sure
+943,,Existing,,,,, ,,Not Sure
+942,,Existing,,,,, ,,Not Sure
+931,,Existing,,,,, ,,Not Sure
+932,,Existing,,,,, ,,Not Sure
+934,,Existing,,,,, ,,Not Sure
+944,,Existing,,,,, ,,Not Sure
+933,,Existing,,,,, ,,Not Sure
+1340,,Existing,,,,, ,,Not Sure
+1206,,Existing,,,,, ,,Not Sure
+1220,,Existing,,,,, ,,Not Sure
+935,,Existing,,,,, ,,Not Sure
+937,,Existing,,,,, ,,Not Sure
+945,,Existing,,,,, ,,Not Sure
+1357,,Existing,,,,, ,,Not Sure
+938,,Existing,,,,, ,,Not Sure
+939,,Existing,,,,, ,,Not Sure
+941,,Existing,,,,, ,,Not Sure
+951,,Existing,,,,, ,,Not Sure
+952,,Existing,,,,, ,,Not Sure
+953,,Existing,,,,, ,,Not Sure
+958,,Existing,,,,, ,,Not Sure
+1238,,Existing,,,,, ,,Not Sure
+1317,,Existing,,,,, ,,Not Sure
+957,,Existing,,,,, ,,Not Sure
+956,,Existing,,,,, ,,Not Sure
+954,,Existing,,,,, ,,Not Sure
+955,,Existing,,,,, ,,Not Sure
+960,,Existing,,,,, ,,Not Sure
+961,,Existing,,,,, ,,Not Sure
+959,,Existing,,,,, ,,Not Sure
+963,,Existing,,,,, ,,Not Sure
+972,,Existing,,,,, ,,Not Sure
+967,,Existing,,,,, ,,Not Sure
+962,,Existing,,,,, ,,Not Sure
+964,,Existing,,,,, ,,Not Sure
+966,,Existing,,,,, ,,Not Sure
+965,,Existing,,,,, ,,Not Sure
+1234,,Existing,,,,, ,,Not Sure
+968,,Existing,,,,, ,,Not Sure
+969,,Existing,,,,, ,,Not Sure
+970,,Existing,,,,, ,,Not Sure
+1338,,Existing,,,,, ,,Not Sure
+1257,,Existing,,,,, ,,Not Sure
+1316,,Existing,,,,, ,,Not Sure
+971,,Existing,,,,, ,,Not Sure
+978,,Existing,,,,, ,,Not Sure
+982,,Existing,,,,, ,,Not Sure
+986,,Existing,,,,, ,,Not Sure
+973,,Existing,,,,, ,,Not Sure
+1000,,Existing,,,,, ,,Not Sure
+1343,,Existing,,,,, ,,Not Sure
+974,,Existing,,,,, ,,Not Sure
+975,,Existing,,,,, ,,Not Sure
+976,,Existing,,,,, ,,Not Sure
+977,,Existing,,,,, ,,Not Sure
+984,,Existing,,,,, ,,Not Sure
+979,,Existing,,,,, ,,Not Sure
+980,,Existing,,,,, ,,Not Sure
+983,,Existing,,,,, ,,Not Sure
+981,,Existing,,,,, ,,Not Sure
+985,,Existing,,,,, ,,Not Sure
+987,,Existing,,,,, ,,Not Sure
+1371,,Existing,,,,, ,,Not Sure
+988,,Existing,,,,, ,,Not Sure
+989,,Existing,,,,, ,,Not Sure
+990,,Existing,,,,, ,,Not Sure
+991,,Existing,,,,, ,,Not Sure
+1241,,Existing,,,,, ,,Not Sure
+1292,,Existing,,,,, ,,Not Sure
+992,,Existing,,,,, ,,Not Sure
+993,,Existing,,,,, ,,Not Sure
+995,,Existing,,,,, ,,Not Sure
+1314,,Existing,,,,, ,,Not Sure
+994,,Existing,,,,, ,,Not Sure
+996,,Existing,,,,, ,,Not Sure
+997,,Existing,,,,, ,,Not Sure
+998,,Existing,,,,, ,,Not Sure
+1008,,Existing,,,,, ,,Not Sure
+1007,,Existing,,,,, ,,Not Sure
+999,,Existing,,,,, ,,Not Sure
+1006,,Existing,,,,, ,,Not Sure
+1012,,Existing,,,,, ,,Not Sure
+1333,,Existing,,,,, ,,Not Sure
+1009,,Existing,,,,, ,,Not Sure
+1010,,Existing,,,,, ,,Not Sure
+1011,,Existing,,,,, ,,Not Sure
+1014,,Existing,,,,, ,,Not Sure
+1013,,Existing,,,,, ,,Not Sure
+1250,,Existing,,,,, ,,Not Sure
+1276,,Existing,,,,, ,,Not Sure
+1015,,Existing,,,,, ,,Not Sure
+1016,,Existing,,,,, ,,Not Sure
+1017,,Existing,,,,, ,,Not Sure
+1018,,Existing,,,,, ,,Not Sure
+1019,,Existing,,,,, ,,Not Sure
+1020,,Existing,,,,, ,,Not Sure
+1022,,Existing,,,,, ,,Not Sure
+1021,,Existing,,,,, ,,Not Sure
+1024,,Existing,,,,, ,,Not Sure
+1023,,Existing,,,,, ,,Not Sure
+1001,,Existing,,,,, ,,Not Sure
+1025,,Existing,,,,, ,,Not Sure
+1002,,Existing,,,,, ,,Not Sure
+1351,,Existing,,,,, ,,Not Sure
+1003,,Existing,,,,, ,,Not Sure
+1004,,Existing,,,,, ,,Not Sure
+1005,,Existing,,,,, ,,Not Sure
+1026,,Existing,,,,, ,,Not Sure
+1027,,Existing,,,,, ,,Not Sure
+1028,,Existing,,,,, ,,Not Sure
+1029,,Existing,,,,, ,,Not Sure
+1030,,Existing,,,,, ,,Not Sure
+1031,,Existing,,,,, ,,Not Sure
+1032,,Existing,,,,, ,,Not Sure
+1033,,Existing,,,,, ,,Not Sure
+1034,,Existing,,,,, ,,Not Sure
+1036,,Existing,,,,, ,,Not Sure
+1037,,Existing,,,,, ,,Not Sure
+1035,,Existing,,,,, ,,Not Sure
+1038,,Existing,,,,, ,,Not Sure
+1039,,Existing,,,,, ,,Not Sure
+1042,,Existing,,,,, ,,Not Sure
+1040,,Existing,,,,, ,,Not Sure
+1043,,Existing,,,,, ,,Not Sure
+1041,,Existing,,,,, ,,Not Sure
+1046,,Existing,,,,, ,,Not Sure
+1044,,Existing,,,,, ,,Not Sure
+1045,,Existing,,,,, ,,Not Sure
+1047,,Existing,,,,, ,,Not Sure
+1048,,Existing,,,,, ,,Not Sure
+1049,,Existing,,,,, ,,Not Sure
+1065,,Existing,,,,, ,,Not Sure
+1067,,Existing,,,,, ,,Not Sure
+1068,,Existing,,,,, ,,Not Sure
+1050,,Existing,,,,, ,,Not Sure
+1066,,Existing,,,,, ,,Not Sure
+1070,,Existing,,,,, ,,Not Sure
+1350,,Existing,,,,, ,,Not Sure
+1069,,Existing,,,,, ,,Not Sure
+1071,,Existing,,,,, ,,Not Sure
+1073,,Existing,,,,, ,,Not Sure
+1074,,Existing,,,,, ,,Not Sure
+1072,,Existing,,,,, ,,Not Sure
+1075,,Existing,,,,, ,,Not Sure
+1051,,Existing,,,,, ,,Not Sure
+1052,,Existing,,,,, ,,Not Sure
+1053,,Existing,,,,, ,,Not Sure
+1055,,Existing,,,,, ,,Not Sure
+1054,,Existing,,,,, ,,Not Sure
+1056,,Existing,,,,, ,,Not Sure
+1310,,Existing,,,,, ,,Not Sure
+1063,,Existing,,,,, ,,Not Sure
+1060,,Existing,,,,, ,,Not Sure
+1061,,Existing,,,,, ,,Not Sure
+1062,,Existing,,,,, ,,Not Sure
+1057,,Existing,,,,, ,,Not Sure
+1363,,Existing,,,,, ,,Not Sure
+1058,,Existing,,,,, ,,Not Sure
+1059,,Existing,,,,, ,,Not Sure
+1076,,Existing,,,,, ,,Not Sure
+1064,,Existing,,,,, ,,Not Sure
+1077,,Existing,,,,, ,,Not Sure
+1079,,Existing,,,,, ,,Not Sure
+1078,,Existing,,,,, ,,Not Sure
+1080,,Existing,,,,, ,,Not Sure
+1081,,Existing,,,,, ,,Not Sure
+1082,,Existing,,,,, ,,Not Sure
+1083,,Existing,,,,, ,,Not Sure
+1084,,Existing,,,,, ,,Not Sure
+1085,,Existing,,,,, ,,Not Sure
+1086,,Existing,,,,, ,,Not Sure
+1087,,Existing,,,,, ,,Not Sure
+1287,,Existing,,,,, ,,Not Sure
+1091,,Existing,,,,, ,,Not Sure
+1088,,Existing,,,,, ,,Not Sure
+1089,,Existing,,,,, ,,Not Sure
+1093,,Existing,,,,, ,,Not Sure
+1090,,Existing,,,,, ,,Not Sure
+1092,,Existing,,,,, ,,Not Sure
+1094,,Existing,,,,, ,,Not Sure
+1331,,Existing,,,,, ,,Not Sure
+1095,,Existing,,,,, ,,Not Sure
+1096,,Existing,,,,, ,,Not Sure
+1097,,Existing,,,,, ,,Not Sure
+1098,,Existing,,,,, ,,Not Sure
+1099,,Existing,,,,, ,,Not Sure
+1100,,Existing,,,,, ,,Not Sure
+1247,,Existing,,,,, ,,Not Sure
+1122,,Existing,,,,, ,,Not Sure
+1124,,Existing,,,,, ,,Not Sure
+1125,,Existing,,,,, ,,Not Sure
+1101,,Existing,,,,, ,,Not Sure
+1123,,Existing,,,,, ,,Not Sure
+1102,,Existing,,,,, ,,Not Sure
+1103,,Existing,,,,, ,,Not Sure
+1104,,Existing,,,,, ,,Not Sure
+1105,,Existing,,,,, ,,Not Sure
+1106,,Existing,,,,, ,,Not Sure
+1108,,Existing,,,,, ,,Not Sure
+1107,,Existing,,,,, ,,Not Sure
+1109,,Existing,,,,, ,,Not Sure
+1110,,Existing,,,,, ,,Not Sure
+1111,,Existing,,,,, ,,Not Sure
+1112,,Existing,,,,, ,,Not Sure
+1113,,Existing,,,,, ,,Not Sure
+1114,,Existing,,,,, ,,Not Sure
+1116,,Existing,,,,, ,,Not Sure
+1115,,Existing,,,,, ,,Not Sure
+1117,,Existing,,,,, ,,Not Sure
+1118,,Existing,,,,, ,,Not Sure
+1119,,Existing,,,,, ,,Not Sure
+1120,,Existing,,,,, ,,Not Sure
+1121,,Existing,,,,, ,,Not Sure
+1126,,Existing,,,,, ,,Not Sure
+1127,,Existing,,,,, ,,Not Sure
+1128,,Existing,,,,, ,,Not Sure
+1129,,Existing,,,,, ,,Not Sure
+1134,,Existing,,,,, ,,Not Sure
+1132,,Existing,,,,, ,,Not Sure
+1133,,Existing,,,,, ,,Not Sure
+1130,,Existing,,,,, ,,Not Sure
+1135,,Existing,,,,, ,,Not Sure
+1131,,Existing,,,,, ,,Not Sure
+1136,,Existing,,,,, ,,Not Sure
+1137,,Existing,,,,, ,,Not Sure
+1362,,Existing,,,,, ,,Not Sure
+1354,,Existing,,,,, ,,Not Sure
+1138,,Existing,,,,, ,,Not Sure
+1139,,Existing,,,,, ,,Not Sure
+1142,,Existing,,,,, ,,Not Sure
+1140,,Existing,,,,, ,,Not Sure
+1141,,Existing,,,,, ,,Not Sure
+1143,,Existing,,,,, ,,Not Sure
+1144,,Existing,,,,, ,,Not Sure
+1145,,Existing,,,,, ,,Not Sure
+1149,,Existing,,,,, ,,Not Sure
+1147,,Existing,,,,, ,,Not Sure
+1146,,Existing,,,,, ,,Not Sure
+1171,,Existing,,,,, ,,Not Sure
+1148,,Existing,,,,, ,,Not Sure
+1150,,Existing,,,,, ,,Not Sure
+1174,,Existing,,,,, ,,Not Sure
+1152,,Existing,,,,, ,,Not Sure
+1172,,Existing,,,,, ,,Not Sure
+1151,,Existing,,,,, ,,Not Sure
+1153,,Existing,,,,, ,,Not Sure
+1156,,Existing,,,,, ,,Not Sure
+1173,,Existing,,,,, ,,Not Sure
+1175,,Existing,,,,, ,,Not Sure
+1154,,Existing,,,,, ,,Not Sure
+1155,,Existing,,,,, ,,Not Sure
+1157,,Existing,,,,, ,,Not Sure
+1158,,Existing,,,,, ,,Not Sure
+1159,,Existing,,,,, ,,Not Sure
+1160,,Existing,,,,, ,,Not Sure
+1162,,Existing,,,,, ,,Not Sure
+1161,,Existing,,,,, ,,Not Sure
+1226,,Existing,,,,, ,,Not Sure
+1347,,Existing,,,,, ,,Not Sure
+1164,,Existing,,,,, ,,Not Sure
+1163,,Existing,,,,, ,,Not Sure
+1165,,Existing,,,,, ,,Not Sure
+1167,,Existing,,,,, ,,Not Sure
+1281,,Existing,,,,, ,,Not Sure
+1166,,Existing,,,,, ,,Not Sure
+1168,,Existing,,,,, ,,Not Sure
+1169,,Existing,,,,, ,,Not Sure
+1178,,Existing,,,,, ,,Not Sure
+1170,,Existing,,,,, ,,Not Sure
+1179,,Existing,,,,, ,,Not Sure
+1180,,Existing,,,,, ,,Not Sure
+1295,,Existing,,,,, ,,Not Sure
+1308,,Existing,,,,, ,,Not Sure
+1181,,Existing,,,,, ,,Not Sure
+1182,,Existing,,,,, ,,Not Sure
+1184,,Existing,,,,, ,,Not Sure
+1183,,Existing,,,,, ,,Not Sure
+1186,,Existing,,,,, ,,Not Sure
+1248,,Existing,,,,, ,,Not Sure
+1185,,Existing,,,,, ,,Not Sure
+1187,,Existing,,,,, ,,Not Sure
+1188,,Existing,,,,, ,,Not Sure
+1189,,Existing,,,,, ,,Not Sure
+1190,,Existing,,,,, ,,Not Sure
+1191,,Existing,,,,, ,,Not Sure
+1192,,Existing,,,,, ,,Not Sure
+1193,,Existing,,,,, ,,Not Sure
+1194,,Existing,,,,, ,,Not Sure
+1195,,Existing,,,,, ,,Not Sure
+1196,,Existing,,,,, ,,Not Sure
+1209,,Existing,,,,, ,,Not Sure
+1197,,Existing,,,,, ,,Not Sure
+1202,,Existing,,,,, ,,Not Sure
+1198,,Existing,,,,, ,,Not Sure
+1199,,Existing,,,,, ,,Not Sure
+1200,,Existing,,,,, ,,Not Sure
+1176,,Existing,,,,, ,,Not Sure
+1177,,Existing,,,,, ,,Not Sure
+1201,,Existing,,,,, ,,Not Sure
+1203,,Existing,,,,, ,,Not Sure
+1205,,Existing,,,,, ,,Not Sure
+1207,,Existing,,,,, ,,Not Sure
+1208,,Existing,,,,, ,,Not Sure
+1260,,Existing,,,,, ,,Not Sure
+1270,,Existing,,,,, ,,Not Sure
+1210,,Existing,,,,, ,,Not Sure
+1211,,Existing,,,,, ,,Not Sure
+1212,,Existing,,,,, ,,Not Sure
+1214,,Existing,,,,, ,,Not Sure
+1216,,Existing,,,,, ,,Not Sure
+1217,,Existing,,,,, ,,Not Sure
+1218,,Existing,,,,, ,,Not Sure
+1219,,Existing,,,,, ,,Not Sure
