@@ -7,5 +7,10 @@
 ### Survey Performance and Survey Results Dashboard
 https://adithyaajith.shinyapps.io/survey_performance/
 
+- Survey over telephone was done to capture the customer experince and capture the VOC.
+
 ### Sales Lead Generation Project Dashboard
 https://adithyaajith.shinyapps.io/lead_generation_dashboard/
+
+- Cold calling campaign to generate potential bussiness leads.
+
