@@ -1,6 +1,6 @@
 # R Shiny Dashboard Projects
 > These dashboards were developed for the Talent Incubator Program -  Global Supply Chain Laboratory at Texas A&M University.
-  It was used to monitor the progress of various business development projects done by the undergrad students
+  It was used to monitor the progress of various business development projects done by the undergrad students.
   
   Dummy data is currently used in the dashboard as these were industry funded projects.
 
